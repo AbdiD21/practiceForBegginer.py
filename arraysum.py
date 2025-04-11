@@ -1,6 +1,7 @@
 '''
 write a simple Python code snippet that accepts n number of elements from the user to create an array, 
 then calculates and prints the sum and average of the elements.
+
 '''
 
 # Function to calculate sum and average of an array
