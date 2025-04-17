@@ -5,6 +5,8 @@ then calculates and prints the sum and average of the elements.
 '''
 
 # Function to calculate sum and average of an array
+
+
 def calculate_sum_and_average():
     # Accept number of elements
     n = int(input("Enter the number of elements in the array: "))
@@ -25,6 +27,8 @@ def calculate_sum_and_average():
     print(f"Sum of the array elements: {total_sum}")
     print(f"Average of the array elements: {average}")
 
+
 # Call the function
 calculate_sum_and_average()
+
 
